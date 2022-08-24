@@ -1,9 +1,9 @@
 [package]
-name = "aga"
+name = "trpg"
 version = "0.0.1"
 
 [dependencies]
 Sui = { local = "../sui/crates/sui-framework" }
 
 [addresses]
-aga = "0x0"
+trpg = "0x0"
